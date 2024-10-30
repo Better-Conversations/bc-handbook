@@ -7,7 +7,7 @@
 When we are conversing with someone, it is possible to describe what is happening to us in three steps: I see and hear what the other person is saying or doing, I will think and feel something based on that, and then I say and/or do something in response. 
 
 % TODO: Image is not centered
-<img src="images/my_context.png" alt="Hello" style="image-center" width = "50%">
+<img src="images/see_think_feel.png" alt="Hello" style="image-center" width = "50%">
 
 This model can be described as a stimulus-response model. Whilst there is much more complexity in the way our brain and our body processes information[^3] , this simple model can help us consider what happens in a conversation. The state model we considered in the previous section forms the middle step of this stimulus-response model.
 

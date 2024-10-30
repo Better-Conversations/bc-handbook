@@ -7,3 +7,6 @@ chapters:
 - file: introduction
 - file: state
 - file: assumption
+- file: context
+- file: listening
+- file: intentional
