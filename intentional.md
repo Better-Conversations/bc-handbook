@@ -137,7 +137,11 @@ Summary of questions:
 An intention (action-directed thought) is different to an impact (what’s experienced). The diagram below shows intention on the left  and the possible impacts on the other person on the right, framed in terms of state. This diagram can be flipped – the other person has an intention in what they communicate (unknown to us), and we experience the impact of that communication, and make assumptions and meaning based on that impact.
 
 % TODO: Image is not centered
-<img src="images/colours.png" alt="Hello" style="image-center" width = "50%">
+```{image} /images/colours.png
+:alt: fishy
+:width: 50%
+:align: center
+```
 
 We can have the best of intentions towards another person and find out that the impact on them was not what we expected or wanted it to be. Sometimes, our intentions may not be that clear to us until after we have acted and reflected on what we said and did. Both these cases provide opportunities for learning, a chance to improve our conversations.
 
@@ -170,7 +174,11 @@ You can prepare for a conversation by cycling through the outcomes, intentions, 
 When considering impact, talk through this with trusted colleagues or friends. It will you understand how what you say or do ‘lands’ with other people before you commit to action. 
 
 % TODO: Image is not centered
-<img src="images/circle_conversation.png" alt="Hello" style="image-center" width = "50%">
+```{image} /images/circle_conversation.png
+:alt: fishy
+:width: 50%
+:align: center
+```
 
 ## 5.8	Final thoughts
 

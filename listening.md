@@ -8,7 +8,11 @@ In this section, we will extend the stimulus-response-context model to look at w
 In the diagram below, we add a second stimulus-response-context process to the right-hand side of our original stimulus-response-context model. This second process is inverted to be able to represent a simplified conversational loop, which could represent a snapshot in time of the conversation.
 
 % TODO: Image is not centered
-<img src="images/my_their_context.png" alt="Hello" style="image-center" width = "50%">
+```{image} /images/my_their_context.png
+:alt: fishy
+:width: 50%
+:align: center
+```
 
 We take our cues (our stimulus) from each other, process that information, add some of our own thoughts and feelings and respond to each other. We have explored how what we sense and how we make sense of it can impact conversations in previous sections. Each person brings their own context to a conversation, and acts within that context. Having good conversations can help us understand each other and helps us create a shared context to help us relate better in the future. Listening with curiosity means that we are listening in a way that attends to the other person and their experience, paying attention to how and what they are communicating, suspending judgement and being aware of the context we bring, and they bring to the conversation. Listening is a choice we make.
 

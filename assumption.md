@@ -7,7 +7,13 @@
 When we are conversing with someone, it is possible to describe what is happening to us in three steps: I see and hear what the other person is saying or doing, I will think and feel something based on that, and then I say and/or do something in response. 
 
 % TODO: Image is not centered
-<img src="images/see_think_feel.png" alt="Hello" style="image-center" width = "50%">
+
+```{image} /images/see_think_feel.png
+:alt: fishy
+:width: 50%
+:align: center
+```
+
 
 This model can be described as a stimulus-response model. Whilst there is much more complexity in the way our brain and our body processes information[^3] , this simple model can help us consider what happens in a conversation. The state model we considered in the previous section forms the middle step of this stimulus-response model.
 
@@ -39,8 +45,11 @@ Our brain processes the data that our five senses pick up. It is also constantly
 
 The physiological data from your body takes time to reach your brain. This why our emotions can persist and still be strongly felt, even though the situation may have changed. It can take time for emotions to ‘settle’.
 
-% TODO: Image is not centered
-<img src="images/think_feel_context.png" alt="Hello" style="image-center" width = "50%">
+```{image} /images/think_feel_context.png
+:alt: fishy
+:width: 50%
+:align: center
+```
 
 When we are in conversation, you might find you experience a change in your state during and/or after the after the conversation. A new thought or feeling can emerge and you find you switch from green to red, say. Sometimes the impact is to change the intensity of your state – you might feel more or less happy, for example. 
 

@@ -5,7 +5,12 @@
 
 We can add to the stimulus-response model to consider how the context or situation that we are in affects our conversations. 
 
-<img src="images/my_context.png" alt="Hello" style="image-center" width = "50%">
+
+```{image} /images/my_context.png
+:alt: fishy
+:width: 50%
+:align: center
+```
 
 But what do we mean by context? The Cambridge Dictionary defines it as follows: 
 
